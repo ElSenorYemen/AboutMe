@@ -1,4 +1,5 @@
 # ZAK KAID
+## Computer Scientist
 
 All about El Senor Yemen
 
@@ -13,3 +14,7 @@ All about El Senor Yemen
 `code`
 
 ---
+
+
+First-Generation American and recent graduate looking to take the next step in my Programming career by helping your organization achieve its goals.
+
